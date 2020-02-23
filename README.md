@@ -7,17 +7,17 @@ Python 3
 Socket
 ```
 
-### How to use it
+### How to use it>:
 
-before running the script, specify the hostname
+Before running the script, specify the hostname.
 
 ![alt text](https://raw.githubusercontent.com/EdinsonRequena/simple-port-scanner/master/scanner1.png)
 
-then choose the ports to scan
+Then choose the ports to scan.
 
 ![alt text](https://raw.githubusercontent.com/EdinsonRequena/simple-port-scanner/master/scanner2.png)
 
-The script will scan the ports that you specified. If there is an open port, the script will notify you
+The script will scan the ports that you specified. If there is an open port, the script will notify you.
 
 ![alt text](https://raw.githubusercontent.com/EdinsonRequena/simple-port-scanner/master/scanner3.png)
 
@@ -34,7 +34,8 @@ Yo can see the tutorial on YouTube [here](https://www.youtube.com/channel/UCFXAi
 - [Twitter](https://twitter.com/requenaea)
 
 
-This software is made for educational purposes and in order to disseminate knowledge about computer science and cybersecurity. I am not responsible for the misuse that may be given. Feel free to modify, download or copy it. use it for good
+This software is made for educational purposes and in order to disseminate knowledge about computer science and cybersecurity. I am not responsible for the misuse that may be given. Feel free to modify, download or copy it. 
+Use it for good.
 
 ---
-from Venezuela with ❤️ for the world
+From Venezuela with ❤️ for the world.
