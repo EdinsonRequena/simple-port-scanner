@@ -1,6 +1,6 @@
 # Simple port scanner 🚀
 
-### How to use it?
+### How to use it
 
 before running the script, specify the hostname
 
