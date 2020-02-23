@@ -1,5 +1,12 @@
 # Simple port scanner 🚀
 
+### Requirements 📋
+
+```
+Python 3
+Socket
+```
+
 ### How to use it
 
 before running the script, specify the hostname
