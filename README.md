@@ -7,7 +7,7 @@ Python 3
 Socket
 ```
 
-### How to use it>:
+### How to use it:
 
 Before running the script, specify the hostname.
 
