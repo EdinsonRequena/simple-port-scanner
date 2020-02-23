@@ -1,4 +1,4 @@
-# Simple port scanner 🚀
+# Simple Port Scanner 🚀
 
 ### Requirements 📋
 
