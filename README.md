@@ -1,4 +1,4 @@
-# Keylogger 🚀
+# Simple port scanner 🚀
 
 ### Tutorial 📖
 
