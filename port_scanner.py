@@ -34,7 +34,7 @@ def try_except():
             skt = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
             socket.setdefaulttimeout(1)
             result = skt.connect_ex((target, ports))
-            print(f'Port {ports}')
+            print(f"Ports {ports}")
             if result == 0:
                 print(f'Port {ports} is open')
                 s.close()
@@ -51,7 +51,11 @@ def try_except():
         print("Could't connet to server, check your internet connection.")
         sys.exit()
 
-if __name__ == '__main__':
+def main():
     scanner()
     cli()
     try_except()
+
+if __name__ == '__main__':
+    main()
+
